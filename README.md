@@ -1,5 +1,5 @@
 <div align="center">
- <h3>Olá! Eu sou o David e seja bem vindo ao meu perfil</h3>
+ <h3>Olá! Eu sou o David e seja bem vindo ao meu perfil :D</h3>
  <h3>Café? (@ ‘▽‘)☕</h3>
 
  <hr>
@@ -7,9 +7,11 @@
  
  <div>
    <a href="https://github.com/DavidLiz">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidLiz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLiz&layout=compact&langs_count=7&theme=gotham"/>
- </div><br><br>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidLiz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLiz&layout=compact&langs_count=7&theme=react"/>
+ </div><br>
+  
+   ![Snake animation](https://github.com/DavidLiz/DavidLiz/blob/output/github-contribution-grid-snake.svg)<br><br>
 
  <div>
     <img align="center" alt="JS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
