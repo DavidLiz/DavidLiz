@@ -14,7 +14,7 @@
    ![Snake animation](https://github.com/DavidLiz/DavidLiz/blob/output/github-contribution-grid-snake.svg)<br><br>
 
  <div>
-    <h4>Tecnologias Aprendidas:</h4><br>
+    <h3>Tecnologias</h3><br>
     <img align="center" alt="JAVA" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="center" alt="SPRING" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
     <img align="center" alt="JS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,7 +29,7 @@
  </div><br>
   
  <hr>
- <h3>Links:</h3><br>
+ <h3>Links</h3><br>
 
  <div>
     <a href="https://www.linkedin.com/in/david-li-zhao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
