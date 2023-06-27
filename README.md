@@ -15,17 +15,17 @@
 
  <div>
     <h4>Tecnologias Aprendidas:</h4><br>
-    <img align="center" alt="JAVA" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    <img align="center" alt="SPRING" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="TS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="ANGULAR" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-    <img align="center" alt="BOOTSTRAP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="MATERIAL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
-    <img align="center" alt="ORACLE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-    <img align="center" alt="MYSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="POSTGRESQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="DOCKER" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" alt="JAVA" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    <img align="center" alt="SPRING" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align="center" alt="JS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="TS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img align="center" alt="ANGULAR" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+    <img align="center" alt="BOOTSTRAP" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="MATERIAL" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
+    <img align="center" alt="ORACLE" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+    <img align="center" alt="MYSQL" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="POSTGRESQL" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="DOCKER" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
  </div><br>
   
  <hr>
